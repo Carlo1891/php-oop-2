@@ -14,6 +14,9 @@
         <title>Ecommerce amici 4 zampe!</title>
     </head>
     <body>
+
+        <?php
+        ?>
         
     </body>
 </html>
