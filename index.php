@@ -1,6 +1,7 @@
 <?php
 
-    // richiamo php
+    // richiamo php in index
+
 
 ?>
 
